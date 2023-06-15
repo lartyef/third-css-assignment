@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: grey;
+}
+.nav-bar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    width: 100%;
+    height: 2.5em;
+    padding: 5px;
+     font-size: 12px;
+}
+.nav-bar a {
+    padding: 20px;
+    text-decoration: none;
+    color: #ffffff;
+   
+}
+.nav-bar img {
+    width: 10px;
+    height: 10px;
+}
+
+  .A4-size {
+    width: 210mm;
+    height: 402vh;
+    background-color: #ffffff;
+    box-shadow: 0 0 4px;
+    margin: auto;
+    margin-top: 10px;
+  }
+  .body-centre {
+    text-align: center;
+    padding-top: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+ .remembrance {
+    margin-top: 50px;
+  }
+  .border-bottom {
+    border-bottom: 1px solid grey;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+  }
+  .content {
+    padding-top: 40px;
+    padding-right: 150px;
+    padding-left: 150px;
+  }
+  h5{
+    color: gray;
+    padding-top: 10px;
+  }
+  h2 {
+    padding-bottom: 10px;
+  }
+  .h2-down {
+    padding-top: 50px;
+  }
+  .p-down {
+    padding-top: 50px;
+  }
+  .last-border {
+    border-bottom: 3px solid grey;
+    margin-left: 70px;
+    margin-right: 70px;
+    margin-top: 20px;
+  }
+  footer {
+    text-align: center;
+    padding-top: 45px;
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  .h4-down {
+    padding-top: 12px;
+  }
+  #bag {
+    color: #ffffff;
+    margin-left: 14px;
+  }
+  
+  
